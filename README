@@ -1,0 +1,55 @@
+# About
+
+BitPlz is an Open Source application for online file sharing
+through a web interface.
+
+It is licensed under GPLv3. You should recieve a copy of the
+license with this package.
+
+It aims at people who have access to a online server for
+hosting their own files. For example:
+
+* Workgroups who need to share files and keep them private
+* People who want to have no limits on how many or how big
+  their shared files are
+* People that want to have full control over who and when
+  they share their files with.
+
+# Features / Roadmap
+
+This feature set hopes to cover what we want to achieve with
+this application, hopefully in that order, but it probably
+will not reflect what and when these features are implemented.
+
+Feedback is always welcome and the project will try to reflect
+what people need of the appication.
+
+Any way, here we go:
+
+## Functionality
+
+* User Management. **Very simple**, just enough for having more than one user on the system.
+* Users can register openly.
+* Upload and share publicly files over a browser
+* View files uploaded by a user
+* File Tagging
+* File Type Filtering
+* Control if files are public or private
+* Control if private files can be viewed with password
+* Control if private files can be viewed by specific users in the system
+* File-lists
+* Control if file-lists are public or private
+* Control if private file-lists can be viewed with a password (file-list permissions override those of the file)
+* Control if private file-lists can be viewed by specific users in the system (file-list permissions override those of the file)
+
+## Admin Side
+
+* Control if user registering is allowed (Open System)
+* Control File Types allowed
+* Control User Quota
+
+# Authors
+
+* Matías Halles (matias@halles.cl)
+
+*BitPlz was originally created by Matías Halles*
