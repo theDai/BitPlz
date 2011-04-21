@@ -15,6 +15,9 @@ hosting their own files. For example:
 * People that want to have full control over who and when
   they share their files with.
 
+BitPlz runs on top of the Pluf Framework [http://www.pluf.org].
+See the INSTALL file for more information.
+
 # Features / Roadmap
 
 This feature set hopes to cover what we want to achieve with
